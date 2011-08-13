@@ -5,7 +5,7 @@
 
 Summary:	PHP bindings to rrd tool system
 Name:		php-%{modname}
-Version:	1.0.3
+Version:	1.0.4
 Release:	%mkrel 1
 Group:		Development/PHP
 License:	PHP
