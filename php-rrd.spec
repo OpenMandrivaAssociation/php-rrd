@@ -5,8 +5,8 @@
 
 Summary:	PHP bindings to rrd tool system
 Name:		php-%{modname}
-Version:	1.0.5
-Release:	%mkrel 3
+Version:	1.1.0
+Release:	%mkrel 1
 Group:		Development/PHP
 License:	PHP
 URL:		http://pecl.php.net/package/rrd
