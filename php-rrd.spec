@@ -9,7 +9,7 @@ Version:	1.1.0
 Release:	2
 Group:		Development/PHP
 License:	PHP
-URL:		http://pecl.php.net/package/rrd
+URL:		https://pecl.php.net/package/rrd
 Source0:	http://pecl.php.net/get/rrd-%{version}.tgz
 Source1:	B16_rrd.ini
 BuildRequires:	php-devel >= 3:5.2.0
