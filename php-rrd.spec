@@ -12,6 +12,11 @@ License:	PHP
 URL:		https://pecl.php.net/package/rrd
 Source0:	http://pecl.php.net/get/rrd-%{version}.tgz
 Source1:	B16_rrd.ini
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	rrdtool-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
